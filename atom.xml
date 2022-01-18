@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lumignxu.github.io</id>
+    <id>https://luomignxu.github.io/luomingxu.github.io</id>
     <title>Gridea</title>
-    <updated>2022-01-18T17:06:32.014Z</updated>
+    <updated>2022-01-18T17:33:43.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lumignxu.github.io"/>
-    <link rel="self" href="https://lumignxu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://luomignxu.github.io/luomingxu.github.io"/>
+    <link rel="self" href="https://luomignxu.github.io/luomingxu.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://lumignxu.github.io/images/avatar.png</logo>
-    <icon>https://lumignxu.github.io/favicon.ico</icon>
+    <logo>https://luomignxu.github.io/luomingxu.github.io/images/avatar.png</logo>
+    <icon>https://luomignxu.github.io/luomingxu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lumignxu.github.io/post/hello-gridea/</id>
-        <link href="https://lumignxu.github.io/post/hello-gridea/">
+        <id>https://luomignxu.github.io/luomingxu.github.io/post/hello-gridea/</id>
+        <link href="https://luomignxu.github.io/luomingxu.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
