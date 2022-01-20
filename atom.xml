@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://luomingxu520.github.io</id>
+    <id>https://luomignxu.github.io/luomingxu520.github.io/</id>
     <title>听风店铺</title>
-    <updated>2022-01-20T13:31:06.361Z</updated>
+    <updated>2022-01-20T13:33:05.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://luomingxu520.github.io"/>
-    <link rel="self" href="https://luomingxu520.github.io/atom.xml"/>
+    <link rel="alternate" href="https://luomignxu.github.io/luomingxu520.github.io/"/>
+    <link rel="self" href="https://luomignxu.github.io/luomingxu520.github.io/atom.xml"/>
     <subtitle>听风店铺</subtitle>
-    <logo>https://luomingxu520.github.io/images/avatar.png</logo>
-    <icon>https://luomingxu520.github.io/favicon.ico</icon>
+    <logo>https://luomignxu.github.io/luomingxu520.github.io/images/avatar.png</logo>
+    <icon>https://luomignxu.github.io/luomingxu520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 听风店铺</rights>
     <entry>
         <title type="html"><![CDATA[底部访客统计]]></title>
-        <id>https://luomingxu520.github.io/post/jMeIxv1RO/</id>
-        <link href="https://luomingxu520.github.io/post/jMeIxv1RO/">
+        <id>https://luomignxu.github.io/luomingxu520.github.io/post/jMeIxv1RO/</id>
+        <link href="https://luomignxu.github.io/luomingxu520.github.io/post/jMeIxv1RO/">
         </link>
         <updated>2022-01-20T08:31:45.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://luomingxu520.github.io/post-images/1642668564466.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://luomignxu.github.io/luomingxu520.github.io//post-images/1642668564466.jpg" alt="" loading="lazy"></figure>
 <center>
 <div>
 <a href="http://localhost:4000/"> 听风店铺</a>
@@ -28,8 +28,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一键黑暗模式JS代码]]></title>
-        <id>https://luomingxu520.github.io/post/1eYOV7K0x/</id>
-        <link href="https://luomingxu520.github.io/post/1eYOV7K0x/">
+        <id>https://luomignxu.github.io/luomingxu520.github.io/post/1eYOV7K0x/</id>
+        <link href="https://luomignxu.github.io/luomingxu520.github.io/post/1eYOV7K0x/">
         </link>
         <updated>2022-01-20T08:21:02.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -39,7 +39,7 @@ darkmode-js.min.js"></script>
 new Darkmode({ label: '🌓' }).showWidget();
 </script>
 <!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://luomingxu520.github.io/post-images/1642667433510.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://luomignxu.github.io/luomingxu520.github.io//post-images/1642667433510.jpg" alt="" loading="lazy"></figure>
 <center>
 <div>
 <a href="http://localhost:4000/"> 听风店铺</a>
@@ -51,13 +51,13 @@ new Darkmode({ label: '🌓' }).showWidget();
     </entry>
     <entry>
         <title type="html"><![CDATA[你们心心念念的听风首创网站正式上线]]></title>
-        <id>https://luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/</id>
-        <link href="https://luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/">
+        <id>https://luomignxu.github.io/luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/</id>
+        <link href="https://luomignxu.github.io/luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/">
         </link>
         <updated>2022-01-20T07:58:44.000Z</updated>
         <content type="html"><![CDATA[<p>经过我重重困难，你们心心念念的听风网站终于在平台上线了，后期我会尽量分享我在学期期间以及我在日常生活中遇到的软件分享以及学习资料分享，</p>
 <p>很多人都觉得自己根本谈不上是个有天赋的人,在职业的起跑线上,就限制了自己想象的空间。其实,只要找到了自己在职业上的兴趣,并为之努力,以上的这些问题,都可以得到很好的解决。<br>
-<img src="https://luomingxu520.github.io/post-images/1642666978934.jpg" alt="" loading="lazy"></p>
+<img src="https://luomignxu.github.io/luomingxu520.github.io//post-images/1642666978934.jpg" alt="" loading="lazy"></p>
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.3.4/lib/darkmode-js.min.js"></script>
 <script>
 new Darkmode({ label: '🌓' }).showWidget();
