@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luomingxu520.github.io/</id>
     <title>听风店铺</title>
-    <updated>2022-01-20T08:05:15.691Z</updated>
+    <updated>2022-01-20T08:12:48.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luomingxu520.github.io/"/>
     <link rel="self" href="https://luomingxu520.github.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://luomingxu520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 听风店铺</rights>
     <entry>
-        <title type="html"><![CDATA[听风首创网站]]></title>
+        <title type="html"><![CDATA[你们心心念念的听风首创网站正式上线]]></title>
         <id>https://luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/</id>
         <link href="https://luomingxu520.github.io/post/ting-feng-shou-chuang-wang-zhan/">
         </link>
         <updated>2022-01-20T07:58:44.000Z</updated>
-        <content type="html"><![CDATA[<p>经过我重重困难，你们心心念念的听风网站终于在平台上线了，后期我会尽量分享我在学期期间以及我在日常生活中遇到的软件分享以及学习资料分享，<img src="https://luomingxu520.github.io//post-images/1642665739281.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p>经过我重重困难，你们心心念念的听风网站终于在平台上线了，后期我会尽量分享我在学期期间以及我在日常生活中遇到的软件分享以及学习资料分享，</p>
+<p>很多人都觉得自己根本谈不上是个有天赋的人,在职业的起跑线上,就限制了自己想象的空间。其实,只要找到了自己在职业上的兴趣,并为之努力,以上的这些问题,都可以得到很好的解决。</p>
+<figure data-type="image" tabindex="1"><img src="https://luomingxu520.github.io//post-images/1642665739281.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
