@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luomingxu520.github.io/</id>
     <title>听风店铺</title>
-    <updated>2022-01-20T08:45:07.828Z</updated>
+    <updated>2022-01-20T08:49:43.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luomingxu520.github.io/"/>
     <link rel="self" href="https://luomingxu520.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://luomingxu520.github.io/post/jMeIxv1RO/">
         </link>
         <updated>2022-01-20T08:31:45.000Z</updated>
-        <content type="html"><![CDATA[<center>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://luomingxu520.github.io//post-images/1642668564466.jpg" alt="" loading="lazy"></figure>
+<center>
 <div>
 <a href="http://localhost:4000/"> 听风店铺</a>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
